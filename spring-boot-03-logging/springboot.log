@@ -1,0 +1,22 @@
+2020-01-16 15:34:25.720  INFO 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on Dell-GLN3J6P4FMD with PID 4108 (started by Administrator in F:\idea_workspace\spring-boot-03-logging)
+2020-01-16 15:34:25.723 DEBUG 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-16 15:34:25.725  INFO 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-01-16 15:34:30.195  INFO 4108 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-16 15:34:31.070  INFO 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 7.272 seconds (JVM running for 10.587)
+2020-01-16 15:34:31.697 TRACE 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : 这是trace日志。。。
+2020-01-16 15:34:31.698 DEBUG 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : 这是debug日志。。。
+2020-01-16 15:34:31.699  INFO 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : 这是Info日志。。。
+2020-01-16 15:34:31.699  WARN 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : 这是warn日志....
+2020-01-16 15:34:31.701 ERROR 4108 --- [main] .w.s.SpringBoot03LoggingApplicationTests : 这是error日志....
+2020-01-16 15:34:31.778  INFO 4108 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-16 === [main] === INFO  === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - Starting SpringBoot03LoggingApplicationTests on Dell-GLN3J6P4FMD with PID 1412 (started by Administrator in F:\idea_workspace\spring-boot-03-logging)
+2020-01-16 === [main] === DEBUG === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-16 === [main] === INFO  === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - No active profile set, falling back to default profiles: default
+2020-01-16 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-16 === [main] === INFO  === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - Started SpringBoot03LoggingApplicationTests in 6.665 seconds (JVM running for 10.199)
+2020-01-16 === [main] === TRACE === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - 这是trace日志。。。
+2020-01-16 === [main] === DEBUG === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - 这是debug日志。。。
+2020-01-16 === [main] === INFO  === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - 这是Info日志。。。
+2020-01-16 === [main] === WARN  === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - 这是warn日志....
+2020-01-16 === [main] === ERROR === c.w.springboot.SpringBoot03LoggingApplicationTests ==== - 这是error日志....
+2020-01-16 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== - Shutting down ExecutorService 'applicationTaskExecutor'
